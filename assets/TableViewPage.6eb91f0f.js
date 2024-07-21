@@ -1,1 +1,0 @@
-import{aI as e,C as a,D as t,E as c}from"./index.f7a7949b.js";const o={},s=c("h1",null,"Table View Page",-1),n=[s];function r(_,l){return a(),t("div",null,n)}var d=e(o,[["render",r]]);export{d as default};
