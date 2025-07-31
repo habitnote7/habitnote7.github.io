@@ -1,1 +1,0 @@
-import{aI as t,C as a,D as s,E as e}from"./index.be3bd688.js";const c={},n={class:"centered-container"},o=e("h1",null,"Aadat ",-1),r=e("h2",null,"The Best Habit Tracker app",-1),_=[o,r];function d(i,l){return a(),s("div",n,_)}var f=t(c,[["render",d]]);export{f as default};
